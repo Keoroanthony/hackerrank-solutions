@@ -1,3 +1,8 @@
+/**
+ * Java String class provides the built-in substring() method that extract a substring from the given
+ * string by using the index values passed as an argument. In case of substring() method startIndex
+ * is inclusive and endIndex is exclusive.
+ */
 
 import java.io.*;
 import java.util.*;
