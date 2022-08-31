@@ -3,7 +3,7 @@
  * nextInt() returns the next integer number from the sequence
  * Java String class provides the built-in substring() method that extract a substring from the given
  * string by using the index values passed as an argument. In case of substring() method startIndex
- * is inclusive and endIndex is exclusive.
+ * is inclusive and endIndex is exclusive...
  */
 
 import java.io.*;
